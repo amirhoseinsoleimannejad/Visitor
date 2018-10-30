@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dadada</color>
+    <color name="colorPrimaryDark">#000101</color>
+    <color name="colorAccent">#b7b7b7</color>
+
+
+    <color name="message_bg">#97e1e5</color>
+    <color name="selectbutton">#05b2fc</color>
+
+    <color name="red">#870000</color>
+    <color name="green">#0c2717</color>
+    <color name="black">#000000</color>
+
+    <color name="color1">#E6E6E6</color>
+    <color name="color2">#F2EFEF</color>
+    <color name="color3">#EBEBEB</color>
+
+    <color name="green_light">#245438</color>
+    <color name="white">#fff</color>
+</resources>

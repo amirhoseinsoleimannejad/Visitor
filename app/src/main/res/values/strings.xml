@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">darmalena.v</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">username</string>
+    <string name="prompt_password">password</string>
+    <string name="action_sign_in">ورود</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="signup">نوم لیکنه</string>
+    <string name="qty">شمېره/تعداد کد</string>
+    <string name="how_pay">څنګه تادیه کول/نحوه پرداخت</string>
+    <string name="description_pay">د تادیاتو تفصیل/توضیحات پرداخت</string>
+    <string name="send">استول/ارسال</string>
+    <string name="date_pay">د تادیاتو نیټه/تاریخ پرداخت</string>
+
+
+</resources>
